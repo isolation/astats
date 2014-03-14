@@ -1,10 +1,8 @@
 <?php
     if(!defined('BEEN_INCLUDED')) { die('cannot directly access this file'); }
     if (isset($page)) {
-        if (preg_match("/^(list|top|chan|status|ustats)$/", $page)) {
-            if ($page == "list") {
-                include('chan_list.php');
-            } else if ($page == "top") {
+        if (preg_match("/^(top|chan|status|ustats)$/", $page)) {
+            if ($page == "top") {
                 include('chan_top.php');
             } else if ($page == "chan") {
                 include('chan_chan.php');

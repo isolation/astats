@@ -8,7 +8,7 @@
     <a href="<?php print "?m=c&amp;p=$page&amp;net=$encoded_net&amp;type=3&amp;sort=$sort&amp;order=$order" ?>">this month</a>
     </p>
     <h4>channel activity <?php print $types[$type] . " on " . $nett ?></h4>
-    <table id="hor-minimalist-a" summary="ImgR Record Record">
+    <table id="hor-minimalist-a" summary="top channels">
     <thead>
     <tr>
     <th scope="col">#</th>

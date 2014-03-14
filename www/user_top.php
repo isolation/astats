@@ -3,7 +3,7 @@
         if(!defined('BEEN_INCLUDED')) { die('cannot directly access this file'); }
     ?>
     <h4>user activity <?php print $types[$type] . " on " . $nett ?></h4>
-    <table id="hor-minimalist-a" summary="ImgR Record Record">
+    <table id="hor-minimalist-a" summary="top users">
     <thead>
     <tr>
     <th scope="col">#</th>
