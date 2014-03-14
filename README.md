@@ -4,7 +4,7 @@ This is an unholy mix of GPLv2 and QPL code so
 I'm sure someone will find a reason to be pissed
 off with how I'm distributing it.
 
-GPLv2 code: www/bargraph.php
+GPLv2 code: www/bargraph.php  
 QPL code: www/jpgraph/
 
 ## Installation
