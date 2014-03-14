@@ -74,7 +74,6 @@
     }
 
     // the network to focus our current queries on
-    // the default value will eventually become a conf setting
     if (isset($_GET["net"])) {
         $nett = htmlspecialchars($_GET["net"]);
         $netdb = htmlspecialchars($_GET["net"]);
@@ -131,6 +130,7 @@
         $rev_order = "desc";
     }
 
+    # :stare:
     if ($sort == "uname") {
         $uname_order = $rev_order;
         $uname_icon = $icon;
