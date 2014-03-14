@@ -243,8 +243,6 @@
         include('mode_a.php');
     } else if ($mode == "t") {
         include('mode_t.php');
-    } else {
-        include('default.php');
     }
 ?>
     <p class="footer"><?php if(isset($pre_footer)) { echo $pre_footer; } ?>page generated in <?php $end = microtime(true); printf("%.3f", $end - $start); ?> seconds</p>
