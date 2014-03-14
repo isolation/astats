@@ -1,0 +1,221 @@
+body {
+    font-family: "Consolas", "Andale Mono", "Courier", "Verdana", "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.0em;
+    background: #333A40;
+    color: #729EBF;
+}
+
+.floatLeft {
+    width: 50%;
+    float: left;
+}
+
+.floatRight {
+    width: 50%;
+    float: right;
+}
+
+.hcontainer {
+    overflow: hidden;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+}
+
+img {
+    border: 0;
+}
+
+img.topgraph {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.footer {
+    font-size: 80%;
+}
+
+p.pages {
+    font-size: 90%;
+    width: 650px;
+    text-align: right;
+}
+
+a {
+    color: #729EBF;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:visited:hover {
+    color: orange;
+}
+
+a:visited {
+    color: #729EBF;
+}
+
+#hor-minimalist-a
+{
+    font-size: 12px;
+    margin: 0 auto;
+    width: 650px;
+    border-collapse: collapse;
+    text-align: left
+}
+#hor-minimalist-a th
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #729EBF;
+    padding: 4px 8px;
+    border-bottom: 2px solid #6678b1;
+}
+#hor-minimalist-a td
+{
+    color: #CDE4FF;
+    padding: 5px 8px 5px 8px;
+    border-bottom: 1px solid gray;
+}
+#hor-minimalist-a tbody tr:hover td
+{
+    color: orange;
+}
+#hor-minimalist-a tbody tr:hover a
+{
+    color: orange;
+}
+
+#hor-minimalist-b
+{
+    font-size: 12px;
+    margin: 0 auto;
+    width: 225px;
+    border-collapse: collapse;
+    text-align: left;
+}
+#hor-minimalist-b th
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #729EBF;
+    padding: 2px 8px;
+    border-bottom: 1px solid #6678b1;
+}
+#hor-minimalist-b td
+{
+    color: #CDE4FF;
+    padding: 2px 8px 2px 8px;
+}
+#hor-minimalist-b tbody tr:hover td
+{
+    color: orange;
+}
+#hor-minimalist-b tbody tr:hover a
+{
+    color: orange;
+}
+
+
+#hor-minimalist-b2
+{
+    font-size: 12px;
+    margin: 0 auto;
+    width: 225px;
+    border-collapse: collapse;
+    text-align: left;
+}
+#hor-minimalist-b2 th
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #729EBF;
+    padding: 2px 8px;
+    border-bottom: 1px solid #6678b1;
+}
+#hor-minimalist-b2 td
+{
+    color: #CDE4FF;
+    padding: 2px 8px 2px 8px;
+}
+#hor-minimalist-b2 tbody tr:hover td
+{
+    color: orange;
+}
+#hor-minimalist-b2 tbody tr:hover a
+{
+    color: orange;
+}
+
+#hor-minimalist-c
+{
+    font-size: 12px;
+    margin: 0 auto;
+    width: 700px;
+    border-collapse: collapse;
+    text-align: left;
+}
+#hor-minimalist-c th
+{
+    font-size: 13px;
+    font-weight: bold;
+    color: #729EBF;
+    padding: 10px 8px;
+    border-bottom: 2px solid #6678b1;
+}
+#hor-minimalist-c td
+{
+    color: #CDE4FF;
+    padding: 9px 8px 0px 8px;
+}
+#hor-minimalist-c tbody tr:hover td
+{
+    color: orange;
+}
+#hor-minimalist-c tbody tr:hover a
+{
+    color: orange;
+}
+
+#hor-minimalist-t
+{
+    font-size: 12px;
+    margin: 0 auto;
+    width: 800px;
+    border-collapse: collapse;
+    text-align: left
+}
+#hor-minimalist-t th
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #729EBF;
+    padding: 4px 8px;
+    border-bottom: 2px solid #6678b1;
+}
+#hor-minimalist-t th.date
+{
+    width: 90px;
+}
+#hor-minimalist-t td
+{
+    color: #CDE4FF;
+    padding: 5px 8px 5px 8px;
+    border-bottom: 1px solid gray;
+}
+#hor-minimalist-t tbody tr:hover td
+{
+    color: orange;
+}
+#hor-minimalist-t tbody tr:hover a
+{
+    color: orange;
+}
